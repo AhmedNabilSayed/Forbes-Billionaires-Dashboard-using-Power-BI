@@ -47,7 +47,6 @@ Displays:
 - Data Visualization
 
 ## 📸 Dashboard Preview
-*(Add screenshots of your dashboard here)*
 
 Example:
 
